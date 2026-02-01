@@ -1,3 +1,3 @@
 ### MNIST Dataset Exploration and ML Technique Study
 
-Uses EMNIST Torch Dataset
+Uses QMNIST Torch Dataset
